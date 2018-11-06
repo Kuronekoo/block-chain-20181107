@@ -1,0 +1,8 @@
+/*
+!.gitignore
+!pom.xml
+!README.md
+!src/
+
+
+# 配置为 忽略全部文件, 只有!后的不忽略
